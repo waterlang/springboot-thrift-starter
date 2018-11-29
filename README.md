@@ -9,5 +9,5 @@ example使用步骤,该例子是基于spring-cloud的 ：<br>
 2.启动example下面的netflix-service-discover-demo项目<br>
 3.启动example下面的spring-boot-thrift-server-demo项目<br>
 4.启动example下面的spring-boot-thrift-client-demo项目<br>
-5.访问http://localhost:4445/aa查看client通过thrift协议访问thrift 的server结果
+5.访问http://localhost:4445/hello 查看client通过thrift协议调用thrift server结果
 <br>
