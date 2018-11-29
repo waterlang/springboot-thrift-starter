@@ -9,9 +9,8 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class MyController {
 
-    @RequestMapping("/aa")
+    @RequestMapping("/hello")
     public String aa(){
-        System.out.println("ffffffffffffff");
         return "success";
     }
 }
